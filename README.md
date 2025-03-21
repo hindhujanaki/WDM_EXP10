@@ -34,3 +34,4 @@
 ![image](https://github.com/user-attachments/assets/5e178a68-8ec2-4228-9836-2fd9a331e755)
 
 ### Result:
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
